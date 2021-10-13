@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#logo {
+    width: 63px;
+}
+
+header {
+    height: auto;
+    box-shadow: 1px 1px 10px black;
+    background-color: #1976d2;
+}
+
+footer {
+    width: 100%;
+    height: auto;
+    box-shadow: 1px 1px 10px black;
+    background-color: #1976d2;
+}
+
+p {
+    font-size: 20px;
+}
+
